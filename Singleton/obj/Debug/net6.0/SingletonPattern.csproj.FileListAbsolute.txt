@@ -42,3 +42,4 @@ C:\Users\Stan\Downloads\006 - SingletonPattern\Singleton\obj\Debug\net6.0\refint
 C:\Users\Stan\Downloads\006 - SingletonPattern\Singleton\obj\Debug\net6.0\SingletonPattern.pdb
 C:\Users\Stan\Downloads\006 - SingletonPattern\Singleton\obj\Debug\net6.0\SingletonPattern.genruntimeconfig.cache
 C:\Users\Stan\Downloads\006 - SingletonPattern\Singleton\obj\Debug\net6.0\ref\SingletonPattern.dll
+C:\Users\Stan\Downloads\006 - SingletonPattern\Singleton\obj\Debug\net6.0\SingletonPattern.sourcelink.json
